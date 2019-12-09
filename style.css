@@ -1,0 +1,16 @@
+body{
+  background-image: url(images/nick-young-confused-face-300x256-nqlyaa.jpg );
+}
+.title{
+  color: white;
+  background-color: black;
+}
+.startButton{
+  color: rgb(3, 5, 1);
+  background-color: greenyellow;
+}
+.yesSpace{
+   margin-left: auto;
+  margin-right: auto;
+  height: 3em;
+}
